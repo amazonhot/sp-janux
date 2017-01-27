@@ -2,10 +2,10 @@
 * noty - jQuery Notification Plugin v1.2.1
 * Contributors: https://github.com/needim/noty/graphs/contributors
 *
-* Examples and Documentation - http://needim.github.com/noty/
+* Examples and Documentation - https://needim.github.com/noty/
 *
 * Licensed under the MIT licenses:
-* http://www.opensource.org/licenses/mit-license.php
+* https://www.opensource.org/licenses/mit-license.php
 *
 **/
 (function($) {

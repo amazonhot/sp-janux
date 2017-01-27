@@ -845,7 +845,7 @@ function calendars(){
 				title: 'Click for Google',
 				start: new Date(y, m, 28),
 				end: new Date(y, m, 29),
-				url: 'http://google.com/'
+				url: 'https://google.com/'
 			}
 		]
 	});
@@ -900,7 +900,7 @@ function calendars(){
 				title: 'Click for Google',
 				start: new Date(y, m, 28),
 				end: new Date(y, m, 29),
-				url: 'http://google.com/'
+				url: 'https://google.com/'
 			}
 		]
 	});		
@@ -926,7 +926,7 @@ function calendars(){
 			copiedEventObject.allDay = allDay;
 			
 			// render the event on the calendar
-			// the last `true` argument determines if the event "sticks" (http://arshaw.com/fullcalendar/docs/event_rendering/renderEvent/)
+			// the last `true` argument determines if the event "sticks" (https://arshaw.com/fullcalendar/docs/event_rendering/renderEvent/)
 			$('#calendar').fullCalendar('renderEvent', copiedEventObject, true);
 			
 			// is the "remove after drop" checkbox checked?
